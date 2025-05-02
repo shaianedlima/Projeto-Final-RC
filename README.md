@@ -12,4 +12,4 @@ Este projeto envolve a criação de um sistema para **gestão de dados acadêmic
 
 ## Tecnologias Utilizadas
 
-- **Python**: linguagem de programação utilizada para o desenvolvimento do sistema na disciplina de Raciocínio Computacional, PUC-PR.
+- **Python**: linguagem de programação utilizada para o desenvolvimento do sistema na disciplina de Raciocínio Computacional.
